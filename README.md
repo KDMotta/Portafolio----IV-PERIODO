@@ -25,7 +25,9 @@
 
   # <h1> Documentación
   
-  https://kdmotta.github.io/Glosario-III/
+  Ejemplo de media - https://kdmotta.github.io/Media/
+  
+  Wireframe: 01_splash - 
   
   # <h1> Objetivos Futuros
   
