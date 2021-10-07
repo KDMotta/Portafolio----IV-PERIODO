@@ -11,9 +11,14 @@
   
   
   # <h1> Índice
+  1. Portada
+  1. Anteportada
+  1. Índice
+  1. Objetivos
   1. Ejemplo de media
   1. Wireframe: 01_splash
   1. Wireframe: 02_login
+  1. Objetivos futuros
 
   
   # <h1> Objetivos
@@ -27,9 +32,11 @@
   
   Ejemplo de media - https://kdmotta.github.io/Media/
   
-  Wireframe: 01_splash - 
+  Wireframe: 01_splash - https://kdmotta.github.io/homelogin/
   
-  # <h1> Objetivos Futuros
+  Wireframe: 02_login - https://kdmotta.github.io/Soporte/
+  
+  # <h1> Objetivos Futuros 
   
   Organización 	:hourglass_flowing_sand: | Investigación :mag_right: | Propósito :checkered_flag:
   -------------------------------------- | ------------------------- | --------------------------
