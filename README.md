@@ -11,14 +11,14 @@
   
   
   # <h1> Índice
-  1. Portada
-  1. Anteportada
-  1. Índice
-  1. Objetivos
-  1. Ejemplo de media
-  1. Wireframe: 01_splash
-  1. Wireframe: 02_login
-  1. Objetivos futuros
+  1. Portada _______________________________________ 1
+  1. Anteportada __________________________________ 2
+  1. Índice _________________________________________ 3
+  1. Objetivos _____________________________________ 4
+  1. Ejemplo de media ____________________________  5
+  1. Wireframe: 01_splash _________________________ 6
+  1. Wireframe: 02_login ___________________________7
+  1. Objetivos futuros _____________________________ 8
 
   
   # <h1> Objetivos
