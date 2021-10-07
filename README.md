@@ -1,6 +1,6 @@
 # Portafolio----IV-PERIODO
 
-![portada1](https://user-images.githubusercontent.com/79612599/127576357-d01f75f4-26a1-4c91-9999-a1298b6cee9e.png)
+![portada1](https://user-images.githubusercontent.com/79612599/136427562-2c2c5c22-dcf8-4649-8980-d1015d8a2510.png)
 
   # <h1> Anteportada
   * Colegio Santa Catalina Labouré
@@ -11,42 +11,10 @@
   
   
   # <h1> Índice
-  1. Home Page
-  1. Header
-  1. Tipos de etiquetas
-     1. Estructura de etiquetas
-  1. Listas de etiquetas dirigidas al texto
-     1. Títulos
-     1. Párrafos
-     1. Hiperenlaces
-     1. Formularios
-     1. Tablas de contenido
-     1. Listas de contenido
-  1. Listas de etiquetas dirigidas a objetos
-     1. Estructuras
-     1. Imagenes
-  1. Tipos de propiedades
-  1. Listado de propiedades css dirigidas al texto
-     1. Texto
-     1. Fuentes
-     1. Colores y fondo
-     1. Listas de contenido
-     1. Tablas de contenido
-  1. Listado de propiedades css dirigidas a objetos
-     1. Modelo de cajas
-     1. Margin
-     1. Padding
-     1. Bordes
-     1. Contenedores
-  Listado de propiedades css dirigida a elementos (maquetación y colocación) 
-     1. Tipos de elementos
-     1. Otros tipos de elementos
-     1. Flexbox
-        1. Conceptos
-        1. Dirección de los ejes
-        1. Propiedades de alineación
-     1.¿Cómo se conecta un css en HTML?
-  
+  1. Ejemplo de media
+  1. Wireframe: 01_splash
+  1. Wireframe: 02_login
+
   
   # <h1> Objetivos
   
@@ -65,3 +33,4 @@
   -------------------------------------- | ------------------------- | --------------------------
   Organizar mi tiempo de manera rigurosa, para que así la elaboración del glorasio pueda cumplir con las fechas establecidas de entrega. | Esto en un futuro me       servirá para seguir generando y desarrollando páginas, app, etc, ya sea como un reto personal o bien pensando en grande y llevarlas a más. Así tambien seguir       buscando información acerca de este tema. Buscar más métodos para seguir desarrollando. | Esforzarme en la realización de este Glosario, ya que en un futuro me     puede servir todo lo puesto en él. Así también trabajar minuciosamente para que cumpla con todos los requisitos.
  
+
