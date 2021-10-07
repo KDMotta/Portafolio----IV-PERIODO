@@ -20,7 +20,7 @@
   
   Saber :bulb: | Saber Hacer :gear: | Saber ser y estar :star2:
   ------------ | ------------------ | -------------------------
-  Reconocer el uso adecuado de cada etiqueta, propiedad, atributo. | Manejar y comprender de una mejor manera la maquetaciónn y colocación. | Adquirir el hábito de   practicar más, seguir realizando páginas y maquetación tanto para mejorar, como para aprender nuevas cosas.
+  Manejar y conocer mejor el uso adecuado de cada propiedad para trabajar con flexbox. | Recolectar más información sobre el diseño de páginas web o bien la creación de wireframes. | Adaptarme a las nuevas formas que vayan saliendo para realizar el diseño de páginas web, así tambien adquirir el hábito de siempre estar buscando nuevas formas/información de programar.
 
 
   # <h1> Documentación
